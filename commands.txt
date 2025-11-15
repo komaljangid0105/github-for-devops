@@ -2,3 +2,9 @@ git remote add origin https://github.com/komaljangid0105/github-for-devops.git
 
 
 new content from github 
+   b5db0c0..2226fc5  master     -> origin/master
+Updating b5db0c0..2226fc5
+Fast-forward
+ dev-branch.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 dev-branch.txt
